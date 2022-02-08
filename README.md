@@ -1,2 +1,2 @@
 # Task-Manager-Api
-Is a Node server with Express Api
+Is a Node API served with Express.
